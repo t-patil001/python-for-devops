@@ -1,0 +1,1 @@
+envirnment vairable and cmd
